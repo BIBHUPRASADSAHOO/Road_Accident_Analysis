@@ -30,7 +30,8 @@ Here's my approach to the project:
 🚧 Most Casualties: Dry Road surfaces
 
 ##Dashboard
-https://github.com/BIBHUPRASADSAHOO/Road_Accident_Analysis/blob/main/Road%20Accident.png
+![Road Accident](https://github.com/user-attachments/assets/0eb31176-0b96-4d92-b103-8dc8e16c824f)
+
 
 
 
