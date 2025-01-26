@@ -1,17 +1,17 @@
 # Road_Accident_Analysis(Interactive Dashboard using MS Excel)
 ## Project Objective
-Created an Excel-based dashboard to examine traffic accidents in 2021 and 2022, including statistics on casualties, trends, and accident-causing variables
+  Created an Excel-based dashboard to examine traffic accidents in 2021 and 2022, including statistics on casualties, trends, and accident-causing variables
 
 ##DataSet
 <a herf="https://docs.google.com/spreadsheets/d/1NwJdgh_XDgZZ-b0wO4upN_c6V6dZ-eUn/edit?usp=drive_link&ouid=110809561979917201661&rtpof=true&sd=true">Dataset</a>
 
 ##Question (KPIs)
--> fatalities and their proportion according to the kind of vehicle and accident severity.
-->Vehicle type-specific casualties.
-->patterns in monthly casualties to compare the two years.
-->Maximum Casualties by Road type.
-->Casualty distribution by surface of the road.
-->Relationships between Casualties by Day/Night and by Area/Location.
+1. fatalities and their proportion according to the kind of vehicle and accident severity.
+2. Vehicle type-specific casualties.
+3. patterns in monthly casualties to compare the two years.
+4. Maximum Casualties by Road type.
+5. Casualty distribution by surface of the road.
+6. Relationships between Casualties by Day/Night and by Area/Location.
 
 ##Steps Followed: -
 Here's my approach to the project:
